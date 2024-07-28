@@ -1,0 +1,8 @@
+
+# YOLO model files
+#    yolov3-helmet.cfg
+#    yolov3-helmet.weights
+#    helmet.names
+
+numpy == 1.26.4
+opencv-python == 4.10.0.84
